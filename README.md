@@ -1,4 +1,4 @@
-# ProyectoFinal
+# Proyecto Final
 Predicción de calificados al mundial.
 
 El propósito de este proyecto es predecir a los equipos americanos que van a calificar al mundial 2022.
